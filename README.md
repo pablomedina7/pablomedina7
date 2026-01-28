@@ -30,7 +30,6 @@ Aplicación descentralizada de comunicación de audio en tiempo real utilizando 
 Desarrollo de una aplicación basada en **contratos inteligentes**, orientada a soluciones descentralizadas.
 
 **Stack:** Blockchain, Smart Contracts, Web3  
-🔗 Repositorio: *(agregar link si es público)*
 
 ---
 
