@@ -1,4 +1,4 @@
-# Hola, soy Pablo Medina
+# Hola, soy Pablo Medina - Desarrollador - Coach de programación
 
 💻 **Full Stack Developer**  
  - Desarrollo aplicaciones web, APIs y soluciones técnicas con foco en producto  
@@ -13,6 +13,8 @@ Soy **Full Stack Developer** con experiencia en el desarrollo de aplicaciones we
 He trabajado en proyectos que incluyen **comunicación en tiempo real (P2P)**, **APIs**, **autenticación**, **blockchain** y **automatización**, siempre priorizando buenas prácticas, claridad en la arquitectura y soluciones funcionales.
 
 Me mantengo en **actualización constante**, aprendiendo nuevas tecnologías y mejorando mis habilidades para construir software útil y bien estructurado.
+
+Disfruto de ayudar y aportar al equipo en cualquiera de los aspectos en los que yo pueda ser de utilidad como asi tambien de enseñar sobre todos mis conocimientos, tengo la mentalidad que un equipo de trabajo unido es un equipo indestructible. 
 
 ---
 
@@ -30,14 +32,14 @@ Aplicación descentralizada de comunicación de audio en tiempo real utilizando 
 Desarrollo de una aplicación basada en **contratos inteligentes**, orientada a soluciones descentralizadas.
 
 **Stack:** Blockchain, Smart Contracts, Web3  
-
+https://github.com/pablomedina7/CEPALE
 ---
 
 ### Testing & Buenas Prácticas
 Proyectos enfocados en **testing**, validación de funcionalidades y calidad del software como parte del proceso de desarrollo.
 
 **Stack:** JavaScript, Node.js, testing frameworks
-
+https://github.com/pablomedina7/TESTING-ON-PYTHON
 ---
 
 ### Proyectos con Frameworks
@@ -126,7 +128,7 @@ Decentralized real-time audio communication app using **Hyperswarm**, without ce
 Application based on **smart contracts** focused on decentralized solutions.
 
 **Stack:** Blockchain, Smart Contracts, Web3
-
+https://github.com/pablomedina7/CEPALE
 ---
 
 ### Testing & Quality
